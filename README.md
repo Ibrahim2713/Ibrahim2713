@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a single web react application
 - 🌱 I’m currently learning: Advanced react and Advanced state mangement

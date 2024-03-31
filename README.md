@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on a single web react application
-- 🌱 I’m currently learning: Advanced react and Advanced state mangement
-- 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with advanced React
+- 🔭 I’m currently working on a asylum tracker project
+- 🌱 I’m currently learning: Advanced python
+- 👯 I’m looking to collaborate on React / JS projects
+- 🤔 I’m always looking for help and suggestions to improve code
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: Ibrahimagbor1@gmail.com
-- ⚡ Fun fact: I am learning to speak French
+- ⚡ Fun fact: I enjoy learning languages
 
